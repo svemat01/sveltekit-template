@@ -14,3 +14,5 @@ A very simple SvelteKit template with the essentials.
 * Follows [LVKSH rules](https://github.com/lvkdotsh/javascript)
 * Prettier support
 * Lint/Fix Command: `npm run lint` or `npm run fix`
+
+* [Svelte CSS vars](https://github.com/kaisermann/svelte-css-vars)

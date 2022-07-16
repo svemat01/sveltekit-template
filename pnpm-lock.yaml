@@ -14,6 +14,7 @@ specifiers:
   sass: ^1.53.0
   svelte: ^3.44.0
   svelte-check: ^2.7.1
+  svelte-css-vars: ^0.0.3
   svelte-preprocess: ^4.10.7
   tslib: ^2.3.1
   typescript: ^4.7.4
@@ -33,6 +34,7 @@ devDependencies:
   sass: 1.53.0
   svelte: 3.49.0
   svelte-check: 2.8.0_sass@1.53.0+svelte@3.49.0
+  svelte-css-vars: 0.0.3
   svelte-preprocess: 4.10.7_ti5n7ksfdoivvzciqy5qn6uyye
   tslib: 2.4.0
   typescript: 4.7.4
@@ -2168,6 +2170,10 @@ packages:
       - sass
       - stylus
       - sugarss
+    dev: true
+
+  /svelte-css-vars/0.0.3:
+    resolution: {integrity: sha512-B7SLi7HGICpHI5oAx+NJRDsQChAIJ6wISwEUWN4CTU0h9WygKhcYwastnIoRkfdGE7tLfiKvEm+d102RRc8zwQ==}
     dev: true
 
   /svelte-hmr/0.14.12_svelte@3.49.0:
